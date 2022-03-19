@@ -15,13 +15,6 @@ https://vibeezzy.herokuapp.com
 - Password is stored in database in encrypted format with salt
 - Add Comments to posts
 
-# Potential Improvements #
-* Add option for user to change their avatar once after the account is created
-* Implement find users feature (i.e. find users by typing their name into a search field)
-* OTP authentication of Email address while logging in 
-* forget password/change password
-* Uploading videos in posts 
-
 # Built With #
 * Express.js - Backend web framework
 * Heroku - Platform to deploy web applications
@@ -32,3 +25,10 @@ https://vibeezzy.herokuapp.com
 * Node.js - Runtime environment to help build fast server applications
 * React.js - JavaScript library for building user interfaces
 * Context API - to help better manage application state
+
+# Potential Improvements #
+* Add option for user to change their avatar once after the account is created
+* Implement find users feature (i.e. find users by typing their name into a search field)
+* OTP authentication of Email address while logging in 
+* forget password/change password
+* Uploading videos in posts 
