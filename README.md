@@ -6,6 +6,7 @@ https://vibeezzy.herokuapp.com
 # Features #
 - SignUp/SignIn
 - Google OAUTH Login
+- Loading screen while the content loads
 - Follow/Unfollow Users
 - Profile Page
 - Create/Delete Posts
