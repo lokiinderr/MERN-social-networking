@@ -23,7 +23,7 @@ export const Signup = () => {
     data.append("file",image);
     data.append("upload_preset","socialnetworking");
     data.append("cloud_name","lokindercloud")
-    fetch('https://api.cloudinary.com/v1_1/lokindercloud/image/upload',{
+    fetch('https://api.cloudinary.com/<YOUR CLOUDINARY API>',{
         method:"post",
         body:data
     }).then(res=>res.json())
