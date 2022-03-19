@@ -5,7 +5,6 @@ https://vibeezzy.herokuapp.com
 
 # Features #
 - SignUp/SignIn
-- Google OAUTH Login
 - Follow/Unfollow Users
 - Profile Page
 - Create/Delete Posts
@@ -28,6 +27,7 @@ https://vibeezzy.herokuapp.com
 
 # Potential Improvements #
 * Add option for user to change their avatar once after the account is created
+* Google OAUTH Login
 * Implement find users feature (i.e. find users by typing their name into a search field)
 * OTP authentication of Email address while logging in 
 * forget password/change password
