@@ -4,6 +4,7 @@ A completely working and responsive social media application based on MERN stack
 https://vibeezzy.herokuapp.com
 
 # Features #
+- Responsive website
 - SignUp/SignIn
 - Follow/Unfollow Users
 - Profile Page
